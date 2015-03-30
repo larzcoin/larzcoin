@@ -16,7 +16,7 @@ class QUrl;
 class QAbstractItemView;
 QT_END_NAMESPACE
 
-/** Utility functions used by the Foocoin Qt UI.
+/** Utility functions used by the Larzcoin Qt UI.
  */
 namespace GUIUtil
 {
@@ -24,15 +24,15 @@ namespace GUIUtil
     QString dateTimeStr(const QDateTime &datetime);
     QString dateTimeStr(qint64 nTime);
 
-    // Render Foocoin addresses in monospace font
+    // Render Larzcoin addresses in monospace font
     QFont bitcoinAddressFont();
 
     // Set up widgets for address and amounts
     void setupAddressWidget(QLineEdit *widget, QWidget *parent);
     void setupAmountWidget(QLineEdit *widget, QWidget *parent);
 
-    // Parse "foocoin:" URI into recipient object, return true on successful parsing
-    // See Foocoin URI definition discussion here: https://bitcointalk.org/index.php?topic=33490.0
+    // Parse "larzcoin:" URI into recipient object, return true on successful parsing
+    // See Larzcoin URI definition discussion here: https://bitcointalk.org/index.php?topic=33490.0
     bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out);
     bool parseBitcoinURI(QString uri, SendCoinsRecipient *out);
 
@@ -96,7 +96,7 @@ namespace GUIUtil
     bool GetStartOnSystemStartup();
     bool SetStartOnSystemStartup(bool fAutoStart);
 
-    /** Help message for Foocoin-Qt, shown with --help. */
+    /** Help message for Larzcoin-Qt, shown with --help. */
     class HelpMessageBox : public QMessageBox
     {
         Q_OBJECT

@@ -20,7 +20,7 @@ enum BlockSource {
     BLOCK_SOURCE_NETWORK
 };
 
-/** Model for Foocoin network client. */
+/** Model for Larzcoin network client. */
 class ClientModel : public QObject
 {
     Q_OBJECT

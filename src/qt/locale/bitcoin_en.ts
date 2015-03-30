@@ -6,13 +6,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Foocoin</source>
-        <translation>About Foocoin</translation>
+        <source>About Larzcoin</source>
+        <translation>About Larzcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Foocoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Foocoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Larzcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Larzcoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -36,8 +36,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Foocoin developers</source>
-        <translation>The Foocoin developers</translation>
+        <source>The Larzcoin developers</source>
+        <translation>The Larzcoin developers</translation>
     </message>
 </context>
 <context>
@@ -69,8 +69,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Foocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your Foocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your Larzcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your Larzcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -84,8 +84,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Foocoin address</source>
-        <translation>Sign a message to prove you own a Foocoin address</translation>
+        <source>Sign a message to prove you own a Larzcoin address</source>
+        <translation>Sign a message to prove you own a Larzcoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -109,8 +109,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Foocoin address</source>
-        <translation>Verify a message to ensure it was signed with a specified Foocoin address</translation>
+        <source>Verify a message to ensure it was signed with a specified Larzcoin address</source>
+        <translation>Verify a message to ensure it was signed with a specified Larzcoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -124,8 +124,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Foocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>These are your Foocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+        <source>These are your Larzcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>These are your Larzcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -277,8 +277,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Foocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your foocoins from being stolen by malware infecting your computer.</source>
-        <translation>Foocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your foocoins from being stolen by malware infecting your computer.</translation>
+        <source>Larzcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your larzcoins from being stolen by malware infecting your computer.</source>
+        <translation>Larzcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your larzcoins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -376,8 +376,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Foocoin</source>
-        <translation>Show information about Foocoin</translation>
+        <source>Show information about Larzcoin</source>
+        <translation>Show information about Larzcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -421,13 +421,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Foocoin address</source>
-        <translation>Send coins to a Foocoin address</translation>
+        <source>Send coins to a Larzcoin address</source>
+        <translation>Send coins to a Larzcoin address</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Foocoin</source>
-        <translation>Modify configuration options for Foocoin</translation>
+        <source>Modify configuration options for Larzcoin</source>
+        <translation>Modify configuration options for Larzcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -457,8 +457,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Foocoin</source>
-        <translation>Foocoin</translation>
+        <source>Larzcoin</source>
+        <translation>Larzcoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Foocoin</source>
-        <translation>&amp;About Foocoin</translation>
+        <source>&amp;About Larzcoin</source>
+        <translation>&amp;About Larzcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -502,13 +502,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Foocoin addresses to prove you own them</source>
-        <translation>Sign messages with your Foocoin addresses to prove you own them</translation>
+        <source>Sign messages with your Larzcoin addresses to prove you own them</source>
+        <translation>Sign messages with your Larzcoin addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Foocoin addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Foocoin addresses</translation>
+        <source>Verify messages to ensure they were signed with specified Larzcoin addresses</source>
+        <translation>Verify messages to ensure they were signed with specified Larzcoin addresses</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -538,15 +538,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Foocoin client</source>
-        <translation>Foocoin client</translation>
+        <source>Larzcoin client</source>
+        <translation>Larzcoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Foocoin network</source>
+        <source>%n active connection(s) to Larzcoin network</source>
         <translation>
-            <numerusform>%n active connection to Foocoin network</numerusform>
-            <numerusform>%n active connections to Foocoin network</numerusform>
+            <numerusform>%n active connection to Larzcoin network</numerusform>
+            <numerusform>%n active connections to Larzcoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -670,8 +670,8 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Foocoin address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid Foocoin address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Larzcoin address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid Larzcoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -685,8 +685,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Foocoin can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. Foocoin can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. Larzcoin can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. Larzcoin can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -751,8 +751,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Foocoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid Foocoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Larzcoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid Larzcoin address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -770,8 +770,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Foocoin-Qt</source>
-        <translation>Foocoin-Qt</translation>
+        <source>Larzcoin-Qt</source>
+        <translation>Larzcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -833,13 +833,13 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Foocoin after logging in to the system.</source>
-        <translation>Automatically start Foocoin after logging in to the system.</translation>
+        <source>Automatically start Larzcoin after logging in to the system.</source>
+        <translation>Automatically start Larzcoin after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Foocoin on system login</source>
-        <translation>&amp;Start Foocoin on system login</translation>
+        <source>&amp;Start Larzcoin on system login</source>
+        <translation>&amp;Start Larzcoin on system login</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -858,8 +858,8 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Foocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Foocoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the Larzcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the Larzcoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -868,8 +868,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Foocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the Foocoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the Larzcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the Larzcoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -943,8 +943,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Foocoin.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting Foocoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Larzcoin.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting Larzcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -958,8 +958,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Foocoin addresses in the transaction list or not.</source>
-        <translation>Whether to show Foocoin addresses in the transaction list or not.</translation>
+        <source>Whether to show Larzcoin addresses in the transaction list or not.</source>
+        <translation>Whether to show Larzcoin addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1010,8 +1010,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Foocoin.</source>
-        <translation>This setting will take effect after restarting Foocoin.</translation>
+        <source>This setting will take effect after restarting Larzcoin.</source>
+        <translation>This setting will take effect after restarting Larzcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1029,8 +1029,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Foocoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Foocoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Larzcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Larzcoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1083,8 +1083,8 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start foocoin: click-to-pay handler</source>
-        <translation>Cannot start foocoin: click-to-pay handler</translation>
+        <source>Cannot start larzcoin: click-to-pay handler</source>
+        <translation>Cannot start larzcoin: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -1233,8 +1233,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Foocoin-Qt help message to get a list with possible Foocoin command-line options.</source>
-        <translation>Show the Foocoin-Qt help message to get a list with possible Foocoin command-line options.</translation>
+        <source>Show the Larzcoin-Qt help message to get a list with possible Larzcoin command-line options.</source>
+        <translation>Show the Larzcoin-Qt help message to get a list with possible Larzcoin command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,13 +1253,13 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Foocoin - Debug window</source>
-        <translation>Foocoin - Debug window</translation>
+        <source>Larzcoin - Debug window</source>
+        <translation>Larzcoin - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Foocoin Core</source>
-        <translation>Foocoin Core</translation>
+        <source>Larzcoin Core</source>
+        <translation>Larzcoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1268,8 +1268,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Foocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the Foocoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the Larzcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the Larzcoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1278,8 +1278,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Foocoin RPC console.</source>
-        <translation>Welcome to the Foocoin RPC console.</translation>
+        <source>Welcome to the Larzcoin RPC console.</source>
+        <translation>Welcome to the Larzcoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1462,8 +1462,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Foocoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Enter a Foocoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Larzcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Enter a Larzcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1527,8 +1527,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Foocoin address</source>
-        <translation>Sign the message to prove you own this Foocoin address</translation>
+        <source>Sign the message to prove you own this Larzcoin address</source>
+        <translation>Sign the message to prove you own this Larzcoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,8 +1563,8 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Foocoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified Foocoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified Larzcoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified Larzcoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1579,8 +1579,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Foocoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Enter a Foocoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Larzcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Enter a Larzcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1589,8 +1589,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Foocoin signature</source>
-        <translation>Enter Foocoin signature</translation>
+        <source>Enter Larzcoin signature</source>
+        <translation>Enter Larzcoin signature</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1663,8 +1663,8 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Foocoin developers</source>
-        <translation>The Foocoin developers</translation>
+        <source>The Larzcoin developers</source>
+        <translation>The Larzcoin developers</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2216,8 +2216,8 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Foocoin version</source>
-        <translation>Foocoin version</translation>
+        <source>Larzcoin version</source>
+        <translation>Larzcoin version</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2226,8 +2226,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or foocoind</source>
-        <translation>Send command to -server or foocoind</translation>
+        <source>Send command to -server or larzcoind</source>
+        <translation>Send command to -server or larzcoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2246,13 +2246,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: foocoin.conf)</source>
-        <translation>Specify configuration file (default: foocoin.conf)</translation>
+        <source>Specify configuration file (default: larzcoin.conf)</source>
+        <translation>Specify configuration file (default: larzcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: foocoind.pid)</source>
-        <translation>Specify pid file (default: foocoind.pid)</translation>
+        <source>Specify pid file (default: larzcoind.pid)</source>
+        <translation>Specify pid file (default: larzcoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2329,24 +2329,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=foocoinrpc
+rpcuser=larzcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Foocoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Larzcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=foocoinrpc
+rpcuser=larzcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Foocoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Larzcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2361,8 +2361,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Foocoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Foocoin is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s. Foocoin is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s. Larzcoin is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s. Larzcoin is probably already running.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2406,8 +2406,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Foocoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Foocoin will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Foocoin will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Larzcoin will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Larzcoin will not work properly.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2656,8 +2656,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Foocoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Foocoin Wiki for SSL setup instructions)</source>
-        <translation>SSL options: (see the Foocoin Wiki for SSL setup instructions)</translation>
+        <source>SSL options: (see the Larzcoin Wiki for SSL setup instructions)</source>
+        <translation>SSL options: (see the Larzcoin Wiki for SSL setup instructions)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2846,13 +2846,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Foocoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Foocoin</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of Foocoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Larzcoin</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of Larzcoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Foocoin to complete</source>
-        <translation>Wallet needed to be rewritten: restart Foocoin to complete</translation>
+        <source>Wallet needed to be rewritten: restart Larzcoin to complete</source>
+        <translation>Wallet needed to be rewritten: restart Larzcoin to complete</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2911,8 +2911,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Foocoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Foocoin is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. Foocoin is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. Larzcoin is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. Larzcoin is probably already running.</translation>
     </message>
     <message>
         <location line="+64"/>

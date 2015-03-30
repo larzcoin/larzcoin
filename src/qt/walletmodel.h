@@ -22,7 +22,7 @@ public:
     qint64 amount;
 };
 
-/** Interface to Foocoin wallet from Qt view code. */
+/** Interface to Larzcoin wallet from Qt view code. */
 class WalletModel : public QObject
 {
     Q_OBJECT

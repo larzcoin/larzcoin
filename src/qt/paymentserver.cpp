@@ -1,4 +1,4 @@
-// Copyright (c) 2009-2012 The Foocoin developers
+// Copyright (c) 2009-2012 The Larzcoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -23,7 +23,7 @@
 using namespace boost;
 
 const int BITCOIN_IPC_CONNECT_TIMEOUT = 1000; // milliseconds
-const QString BITCOIN_IPC_PREFIX("foocoin:");
+const QString BITCOIN_IPC_PREFIX("larzcoin:");
 
 //
 // Create a name that is unique for:
@@ -93,7 +93,7 @@ bool PaymentServer::ipcSendCommandLine()
 
 PaymentServer::PaymentServer(QApplication* parent) : QObject(parent), saveURIs(true)
 {
-    // Install global event filter to catch QFileOpenEvents on the mac (sent when you click foocoin: links)
+    // Install global event filter to catch QFileOpenEvents on the mac (sent when you click larzcoin: links)
     parent->installEventFilter(this);
 
     QString name = ipcServerName();
@@ -104,14 +104,14 @@ PaymentServer::PaymentServer(QApplication* parent) : QObject(parent), saveURIs(t
     uriServer = new QLocalServer(this);
 
     if (!uriServer->listen(name))
-        qDebug() << tr("Cannot start foocoin: click-to-pay handler");
+        qDebug() << tr("Cannot start larzcoin: click-to-pay handler");
     else
         connect(uriServer, SIGNAL(newConnection()), this, SLOT(handleURIConnection()));
 }
 
 bool PaymentServer::eventFilter(QObject *object, QEvent *event)
 {
-    // clicking on foocoin: URLs creates FileOpen events on the Mac:
+    // clicking on larzcoin: URLs creates FileOpen events on the Mac:
     if (event->type() == QEvent::FileOpen)
     {
         QFileOpenEvent* fileEvent = static_cast<QFileOpenEvent*>(event);
